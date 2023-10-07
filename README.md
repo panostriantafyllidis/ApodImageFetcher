@@ -9,7 +9,6 @@
 
 ![Logo](https://github.com/ShikharSahu/imageRepo/blob/main/apodLogo.jpg?raw=true)
 
-![stars](https://img.shields.io/github/stars/ShikharSahu/NasaApodDesktopWallpaperSetter) ![forks](https://img.shields.io/github/forks/ShikharSahu/NasaApodDesktopWallpaperSetter) ![issues](https://img.shields.io/github/issues/ShikharSahu/NasaApodDesktopWallpaperSetter) ![license](https://img.shields.io/github/license/ShikharSahu/NasaApodDesktopWallpaperSetter) 
 
 
 ## Installing the prequisites
@@ -112,9 +111,6 @@ In the command promt, with the cloned repo open in it, run:
 ```
 python manual_wallpaper_changer.py
 ```
-A window will open:
-
-![Gui Image](https://github.com/ShikharSahu/imageRepo/blob/main/NasaApodReadMe/apodGui.jpeg?raw=true)
 
 Select the date and click on "set as wallpaper".
 You can select any date from 2008 to today.
@@ -142,41 +138,3 @@ You can refer to [this](https://www.geeksforgeeks.org/schedule-a-python-script-t
 
 + NASA APOD API: https://github.com/nasa/apod-api
 
-## My Desktop:
-**Date:**
-
-+ **2021 April 26**
-
-![2021 April 26](https://github.com/ShikharSahu/imageRepo/blob/main/NasaApodReadMe/2021-04-26.jpeg?raw=true)
-
-+ **2021 February 14**
-
-![2021 April 26](https://github.com/ShikharSahu/imageRepo/blob/main/NasaApodReadMe/2021-02-14.jpeg?raw=true)
-
-+ **2019 October 22**
-
-![2019 October 22](https://github.com/ShikharSahu/imageRepo/blob/main/NasaApodReadMe/2019-10-22.jpeg?raw=true)
-
-+ **2019 May 11**
-
-![2019 May 11](https://github.com/ShikharSahu/imageRepo/blob/main/NasaApodReadMe/2019-05-11.jpeg?raw=true)
-
-
-
-License
------------
-```
-    Copyright 2021 Shikhar Sahu
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-```
