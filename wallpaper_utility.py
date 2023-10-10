@@ -1,6 +1,6 @@
 import ctypes
 
-APOD_API_KEY = "DEMO_KEY"
+APOD_API_KEY = "yjdOU0OzXE53lNYoaWZQ6H5Fodjy8gJs4APnZW4r"
 SERVICE_NAME = "NASA Wallpaper"
 
 # constant to work with windows 
