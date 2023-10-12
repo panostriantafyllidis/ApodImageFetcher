@@ -38,29 +38,6 @@ pip 21.3.1 <long path name>
 ```
 If you get a error, install pip.
 
-### Clone the repository
-
-To check if you already have git installed.
-Run the following on cmd.
-```
-git --version
-```
-If installed, you'll get the output like:
-```
-git version 2.24.1.windows.2
-```
-If not installed, you can install git from [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-
-Now go to a folder anywhere in your system where you wish to clone the repository.
-Open cmd in that directory.
-
-Learn how to traverse folders in cmd from [here](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/)
-
-To clone the repo, in the desired folder - open cmd and run the following:
-
-```
-git clone https://github.com/ShikharSahu/NasaApodDesktopWallpaperSetter.git
-```
 
 ### Required packages
 Run the below commands one by one and make sure there are no errors.
@@ -111,8 +88,8 @@ python manual_wallpaper_changer.py
 ```
 
 Select the date and click on "set as wallpaper".
-You can select any date from 2008 to today.
-
+You can select any date from 2008* to today.
+*Need to change it to go all the way back to 2000s
 Click on "Use Today's Pic" to use today's pic.
 
 ### Set Automatic Wallpaper changer
