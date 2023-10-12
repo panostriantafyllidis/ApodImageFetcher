@@ -7,7 +7,7 @@
 
 # Nasa Apod Wallpaper Setter
 
-![Logo](https://github.com/panostrian/imageRepo/main/apodLogo.jpg?raw=true)
+![Logo](https://github.com/panostrian/imageRepo/main/apodLogo.jpg)
 
 
 
