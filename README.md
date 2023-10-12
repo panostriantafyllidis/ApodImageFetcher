@@ -9,8 +9,6 @@
 
 ![Logo](https://github.com/panostrian/imageRepo/blob/main/apodLogo.jpg?raw=true)
 
-
-
 ## Installing the prequisites
 
 **Reminder that right now, this only works on windows.**
