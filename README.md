@@ -5,18 +5,16 @@
 - Saves the images in local user drive for future use.
 
 
-# Nasa Apod Wallpaper Setter
+# Nasa Apod
 
 ![Logo](https://github.com/panostrian/imageRepo/blob/main/apodLogo.jpg?raw=true)
 
 ## Installing the prequisites
 
-**Reminder that right now, this only works on windows.**
-
 ### Python 3
 
-Make sure you have python3 installed on your device. You can learn how to do this from [here](https://docs.python.org/3/using/windows.html)
-In the install dialog box, make sure you add Python 3 to the PATH.
+Make sure you have python3 installed on your device. Guide can be foind [here](https://docs.python.org/3/using/windows.html)
+Python 3 needs to be added to the PATH.
 
 #### Tip: Opening cmd in any folder
 Assuming that in File Explorer you have opened the target directory/folder, do this:
@@ -62,9 +60,6 @@ Run:
 python apod_wallpaper_setter.py
 ```
 See if the wallpaper is changed.
-If it works, **voila!**
-else try to debug the errors.
-If nothing works, you can contatct me.
 
 ### Create a batch file
 
