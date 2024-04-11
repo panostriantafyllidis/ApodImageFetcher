@@ -1,55 +1,12 @@
+# Nasa Apod
+
+![Logo](https://github.com/panostrian/imageRepo/blob/main/apodLogo.jpg?raw=true)
+
 ### Features
 
 - Automatically sets NASA Astronomical Picture of the Day as desktop wallpaper.
 - Manually select a date from user friendly GUI and set that date's image as the desktop wallpaper.
 - Saves the images in local user drive for future use.
-
-
-# Nasa Apod
-
-![Logo](https://github.com/panostrian/imageRepo/blob/main/apodLogo.jpg?raw=true)
-
-## Installing the prequisites
-
-### Python 3
-
-Make sure you have python3 installed on your device. Guide can be foind [here](https://docs.python.org/3/using/windows.html)
-Python 3 needs to be added to the PATH.
-
-#### Tip: Opening cmd in any folder
-Assuming that in File Explorer you have opened the target directory/folder, do this:
-
-1. Click on address bar, alternatively press Alt+D
-
-2. Now when address bar is highlighted, type cmd in the bar.
-
-3. Press Enter key
-
-Make sure you have pip installed on your pc.
-Open cmd and run.
-```
-pip --version
-```
-You'll get a version as shown below.
-```
-pip 21.3.1 <long path name>
-```
-If you get a error, install pip.
-
-
-### Required packages
-Run the below commands one by one and make sure there are no errors.
-```
-pip install -r requirements.txt
-```
-*OR*
-Just go to the cloned repository and run the following on cmd:
-```
-pip install win10toast
-pip install tkcalendar
-pip install Pillow
-pip install requests
-```
 
 ## Run the Program
 
